@@ -1,0 +1,4 @@
+id: 001_demo
+title: Demo prompt
+prompt: |
+  Draft a D-A-P note for a 30-year-old patient with fever.
